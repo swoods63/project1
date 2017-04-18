@@ -1,7 +1,6 @@
-.bg-blue{
+.bg-blue.container {
   background: #3079AB;
   color: white;
-border-block-end-color: black;
 
 }
 
