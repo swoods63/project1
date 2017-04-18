@@ -1,8 +1,8 @@
 .bg-blue{
   background: #3079AB;
   color: white;
-text-justify: center;
-  
+border-block-end-color: black;
+
 }
 
 .card-white {
